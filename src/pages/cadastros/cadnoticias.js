@@ -29,7 +29,7 @@ export default function Cadnoticias() {
                 <option value="1">Lançamentos</option>
                 <option value="2">Game Dev</option>
                 <option value="3">Top 5 Jogos</option>
-                <option value="4">Jogos Retrô</option>
+                <option value="4">Jogos Retrô</option> 
               </Form.Select>
             </Col>
           </Row>
