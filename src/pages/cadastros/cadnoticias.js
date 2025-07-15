@@ -26,12 +26,10 @@ export default function Cadnoticias() {
             <Col sm={9}>
               <Form.Select className='.bg-success-subtle'>
                 <option>Selecione uma abaixo</option>
-                <option value="1">Ciência</option>
-                <option value="2">Educação</option>
-                <option value="3">Pesquisa</option>
-                <option value="4">Esportes</option>
-                <option value="5">Cultura</option>
-                <option value="6">Entreterimento</option>
+                <option value="1">Lançamentos</option>
+                <option value="2">Game Dev</option>
+                <option value="3">Top 5 Jogos</option>
+                <option value="4">Jogos Retrô</option>
               </Form.Select>
             </Col>
           </Row>
