@@ -1,219 +1,212 @@
 export const noticias =[
   {
     "idnoticia": 1,
-    "titulonoticia": "Nova descoberta em Marte",
-    "conteudonoticia": "Nova descoberta em Marte. Esta notícia apresenta um desenvolvimento recente e relevante na área de pesquisa, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "pesquisa",
-    "datahoracadastro": "2025-05-17T18:17:34.750705"
+    "titulonoticia": "Grandes Lançamentos Agitam a Semana Gamer",
+    "conteudonoticia": "Nesta semana, a indústria recebeu uma enxurrada de lançamentos aguardados, incluindo títulos AAA e indies inovadores que prometem redefinir padrões de jogabilidade e narrativa. Nesta semana, a indústria recebeu uma enxurrada de lançamentos aguardados, incluindo títulos AAA e indies inovadores que prometem redefinir padrões de jogabilidade e narrativa. Nesta semana, a indústria recebeu uma enxurrad",
+    "tiponoticia": "Lançamentos",
+    "datahoracadastro": "2025-04-14T22:55:55-04:00"
   },
   {
     "idnoticia": 2,
-    "titulonoticia": "Brasil vence torneio sub-20",
-    "conteudonoticia": "Brasil vence torneio sub-20. Esta notícia apresenta um desenvolvimento recente e relevante na área de ciência, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "ciência",
-    "datahoracadastro": "2025-05-16T19:17:34.750732"
+    "titulonoticia": "Grandes Lançamentos Agitam a Semana Gamer",
+    "conteudonoticia": "Nesta semana, a indústria recebeu uma enxurrada de lançamentos aguardados, incluindo títulos AAA e indies inovadores que prometem redefinir padrões de jogabilidade e narrativa. Nesta semana, a indústria recebeu uma enxurrada de lançamentos aguardados, incluindo títulos AAA e indies inovadores que prometem redefinir padrões de jogabilidade e narrativa. Nesta semana, a indústria recebeu uma enxurrad",
+    "tiponoticia": "Lançamentos",
+    "datahoracadastro": "2025-06-08T03:46:06-04:00"
   },
   {
     "idnoticia": 3,
-    "titulonoticia": "Festival de cinema agita capital",
-    "conteudonoticia": "Festival de cinema agita capital. Esta notícia apresenta um desenvolvimento recente e relevante na área de pesquisa, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "pesquisa",
-    "datahoracadastro": "2025-05-21T00:17:34.750741"
+    "titulonoticia": "Review em Profundidade de Galaxy Frontier",
+    "conteudonoticia": "Nossa redação avaliou o recém‑lançado 'Galaxy Frontier', destacando seus visuais impressionantes, trilha sonora envolvente e algumas falhas de balanceamento que podem ser corrigidas em atualizações futuras. Nossa redação avaliou o recém‑lançado 'Galaxy Frontier', destacando seus visuais impressionantes, trilha sonora envolvente e algumas falhas de balanceamento que podem ser corrigidas em atualiza",
+    "tiponoticia": "Review",
+    "datahoracadastro": "2025-02-11T19:50:20-04:00"
   },
   {
     "idnoticia": 4,
-    "titulonoticia": "Novo método para tratar Alzheimer",
-    "conteudonoticia": "Novo método para tratar Alzheimer. Esta notícia apresenta um desenvolvimento recente e relevante na área de entretenimento, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "entretenimento",
-    "datahoracadastro": "2025-05-18T00:17:34.750749"
+    "titulonoticia": "Grandes Lançamentos Agitam a Semana Gamer",
+    "conteudonoticia": "Nesta semana, a indústria recebeu uma enxurrada de lançamentos aguardados, incluindo títulos AAA e indies inovadores que prometem redefinir padrões de jogabilidade e narrativa. Nesta semana, a indústria recebeu uma enxurrada de lançamentos aguardados, incluindo títulos AAA e indies inovadores que prometem redefinir padrões de jogabilidade e narrativa. Nesta semana, a indústria recebeu uma enxurrad",
+    "tiponoticia": "Lançamentos",
+    "datahoracadastro": "2025-05-28T05:41:41-04:00"
   },
   {
     "idnoticia": 5,
-    "titulonoticia": "Plataforma de cursos cresce 40%",
-    "conteudonoticia": "Plataforma de cursos cresce 40%. Esta notícia apresenta um desenvolvimento recente e relevante na área de esportes, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "esportes",
-    "datahoracadastro": "2025-05-17T00:17:34.750760"
+    "titulonoticia": "Coleções Retrô Revivem Clássicos 16‑bit",
+    "conteudonoticia": "Fãs de nostalgia podem comemorar a chegada de coleções remasterizadas que preservam o charme 16‑bit, oferecem modo online e suporte a conquistas, mantendo viva a herança dos clássicos. Fãs de nostalgia podem comemorar a chegada de coleções remasterizadas que preservam o charme 16‑bit, oferecem modo online e suporte a conquistas, mantendo viva a herança dos clássicos. Fãs de nostalgia podem comemor",
+    "tiponoticia": "Jogos Retrô",
+    "datahoracadastro": "2025-05-10T00:18:25-04:00"
   },
   {
     "idnoticia": 6,
-    "titulonoticia": "Nova espécie de ave é descoberta",
-    "conteudonoticia": "Nova espécie de ave é descoberta. Esta notícia apresenta um desenvolvimento recente e relevante na área de esportes, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "esportes",
-    "datahoracadastro": "2025-05-23T19:17:34.750770"
+    "titulonoticia": "Review em Profundidade de Galaxy Frontier",
+    "conteudonoticia": "Nossa redação avaliou o recém‑lançado 'Galaxy Frontier', destacando seus visuais impressionantes, trilha sonora envolvente e algumas falhas de balanceamento que podem ser corrigidas em atualizações futuras. Nossa redação avaliou o recém‑lançado 'Galaxy Frontier', destacando seus visuais impressionantes, trilha sonora envolvente e algumas falhas de balanceamento que podem ser corrigidas em atualiza",
+    "tiponoticia": "Review",
+    "datahoracadastro": "2025-01-21T03:45:30-04:00"
   },
   {
     "idnoticia": 7,
-    "titulonoticia": "Escola adota tecnologia inclusiva",
-    "conteudonoticia": "Escola adota tecnologia inclusiva. Esta notícia apresenta um desenvolvimento recente e relevante na área de esportes, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "esportes",
-    "datahoracadastro": "2025-05-20T14:17:34.750780"
+    "titulonoticia": "Tendências de Game Dev Reveladas na GDC",
+    "conteudonoticia": "Durante a GDC 2025, desenvolvedores compartilharam técnicas avançadas de inteligência artificial, otimização de engines e estratégias de monetização que apontam o futuro da produção de jogos. Durante a GDC 2025, desenvolvedores compartilharam técnicas avançadas de inteligência artificial, otimização de engines e estratégias de monetização que apontam o futuro da produção de jogos. Durante a GDC 20",
+    "tiponoticia": "Game Dev",
+    "datahoracadastro": "2025-02-22T10:49:36-04:00"
   },
   {
     "idnoticia": 8,
-    "titulonoticia": "Estudo analisa hábitos digitais",
-    "conteudonoticia": "Estudo analisa hábitos digitais. Esta notícia apresenta um desenvolvimento recente e relevante na área de esportes, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "esportes",
-    "datahoracadastro": "2025-05-23T07:17:34.750791"
+    "titulonoticia": "Review em Profundidade de Galaxy Frontier",
+    "conteudonoticia": "Nossa redação avaliou o recém‑lançado 'Galaxy Frontier', destacando seus visuais impressionantes, trilha sonora envolvente e algumas falhas de balanceamento que podem ser corrigidas em atualizações futuras. Nossa redação avaliou o recém‑lançado 'Galaxy Frontier', destacando seus visuais impressionantes, trilha sonora envolvente e algumas falhas de balanceamento que podem ser corrigidas em atualiza",
+    "tiponoticia": "Review",
+    "datahoracadastro": "2025-05-10T15:12:28-04:00"
   },
   {
     "idnoticia": 9,
-    "titulonoticia": "Show gratuito reúne multidão",
-    "conteudonoticia": "Show gratuito reúne multidão. Esta notícia apresenta um desenvolvimento recente e relevante na área de educação, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "educação",
-    "datahoracadastro": "2025-05-20T16:17:34.750803"
+    "titulonoticia": "Tendências de Game Dev Reveladas na GDC",
+    "conteudonoticia": "Durante a GDC 2025, desenvolvedores compartilharam técnicas avançadas de inteligência artificial, otimização de engines e estratégias de monetização que apontam o futuro da produção de jogos. Durante a GDC 2025, desenvolvedores compartilharam técnicas avançadas de inteligência artificial, otimização de engines e estratégias de monetização que apontam o futuro da produção de jogos. Durante a GDC 20",
+    "tiponoticia": "Game Dev",
+    "datahoracadastro": "2025-03-05T14:30:39-04:00"
   },
   {
     "idnoticia": 10,
-    "titulonoticia": "Brasil lidera ranking olímpico",
-    "conteudonoticia": "Brasil lidera ranking olímpico. Esta notícia apresenta um desenvolvimento recente e relevante na área de ciência, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "ciência",
-    "datahoracadastro": "2025-05-21T13:17:34.750810"
+    "titulonoticia": "Grandes Lançamentos Agitam a Semana Gamer",
+    "conteudonoticia": "Nesta semana, a indústria recebeu uma enxurrada de lançamentos aguardados, incluindo títulos AAA e indies inovadores que prometem redefinir padrões de jogabilidade e narrativa. Nesta semana, a indústria recebeu uma enxurrada de lançamentos aguardados, incluindo títulos AAA e indies inovadores que prometem redefinir padrões de jogabilidade e narrativa. Nesta semana, a indústria recebeu uma enxurrad",
+    "tiponoticia": "Lançamentos",
+    "datahoracadastro": "2025-06-19T10:23:06-04:00"
   },
   {
     "idnoticia": 11,
-    "titulonoticia": "Feira literária atrai visitantes",
-    "conteudonoticia": "Feira literária atrai visitantes. Esta notícia apresenta um desenvolvimento recente e relevante na área de educação, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "educação",
-    "datahoracadastro": "2025-05-27T05:17:34.750816"
+    "titulonoticia": "Grandes Lançamentos Agitam a Semana Gamer",
+    "conteudonoticia": "Nesta semana, a indústria recebeu uma enxurrada de lançamentos aguardados, incluindo títulos AAA e indies inovadores que prometem redefinir padrões de jogabilidade e narrativa. Nesta semana, a indústria recebeu uma enxurrada de lançamentos aguardados, incluindo títulos AAA e indies inovadores que prometem redefinir padrões de jogabilidade e narrativa. Nesta semana, a indústria recebeu uma enxurrad",
+    "tiponoticia": "Lançamentos",
+    "datahoracadastro": "2025-05-27T15:26:18-04:00"
   },
   {
     "idnoticia": 12,
-    "titulonoticia": "Startup inova no agronegócio",
-    "conteudonoticia": "Startup inova no agronegócio. Esta notícia apresenta um desenvolvimento recente e relevante na área de cultura, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "cultura",
-    "datahoracadastro": "2025-05-18T13:17:34.750822"
+    "titulonoticia": "Grandes Lançamentos Agitam a Semana Gamer",
+    "conteudonoticia": "Nesta semana, a indústria recebeu uma enxurrada de lançamentos aguardados, incluindo títulos AAA e indies inovadores que prometem redefinir padrões de jogabilidade e narrativa. Nesta semana, a indústria recebeu uma enxurrada de lançamentos aguardados, incluindo títulos AAA e indies inovadores que prometem redefinir padrões de jogabilidade e narrativa. Nesta semana, a indústria recebeu uma enxurrad",
+    "tiponoticia": "Lançamentos",
+    "datahoracadastro": "2025-01-03T13:28:12-04:00"
   },
   {
     "idnoticia": 13,
-    "titulonoticia": "Pesquisadores avançam em energia solar",
-    "conteudonoticia": "Pesquisadores avançam em energia solar. Esta notícia apresenta um desenvolvimento recente e relevante na área de esportes, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "esportes",
-    "datahoracadastro": "2025-05-16T23:17:34.750827"
+    "titulonoticia": "Review em Profundidade de Galaxy Frontier",
+    "conteudonoticia": "Nossa redação avaliou o recém‑lançado 'Galaxy Frontier', destacando seus visuais impressionantes, trilha sonora envolvente e algumas falhas de balanceamento que podem ser corrigidas em atualizações futuras. Nossa redação avaliou o recém‑lançado 'Galaxy Frontier', destacando seus visuais impressionantes, trilha sonora envolvente e algumas falhas de balanceamento que podem ser corrigidas em atualiza",
+    "tiponoticia": "Review",
+    "datahoracadastro": "2025-06-24T02:39:40-04:00"
   },
   {
     "idnoticia": 14,
-    "titulonoticia": "Universidade lança programa de bolsas",
-    "conteudonoticia": "Universidade lança programa de bolsas. Esta notícia apresenta um desenvolvimento recente e relevante na área de esportes, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "esportes",
-    "datahoracadastro": "2025-05-25T07:17:34.750833"
+    "titulonoticia": "Grandes Lançamentos Agitam a Semana Gamer",
+    "conteudonoticia": "Nesta semana, a indústria recebeu uma enxurrada de lançamentos aguardados, incluindo títulos AAA e indies inovadores que prometem redefinir padrões de jogabilidade e narrativa. Nesta semana, a indústria recebeu uma enxurrada de lançamentos aguardados, incluindo títulos AAA e indies inovadores que prometem redefinir padrões de jogabilidade e narrativa. Nesta semana, a indústria recebeu uma enxurrad",
+    "tiponoticia": "Lançamentos",
+    "datahoracadastro": "2025-01-18T01:03:38-04:00"
   },
   {
     "idnoticia": 15,
-    "titulonoticia": "Peça de teatro lota sessões",
-    "conteudonoticia": "Peça de teatro lota sessões. Esta notícia apresenta um desenvolvimento recente e relevante na área de pesquisa, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "pesquisa",
-    "datahoracadastro": "2025-05-19T11:17:34.750839"
+    "titulonoticia": "Grandes Lançamentos Agitam a Semana Gamer",
+    "conteudonoticia": "Nesta semana, a indústria recebeu uma enxurrada de lançamentos aguardados, incluindo títulos AAA e indies inovadores que prometem redefinir padrões de jogabilidade e narrativa. Nesta semana, a indústria recebeu uma enxurrada de lançamentos aguardados, incluindo títulos AAA e indies inovadores que prometem redefinir padrões de jogabilidade e narrativa. Nesta semana, a indústria recebeu uma enxurrad",
+    "tiponoticia": "Lançamentos",
+    "datahoracadastro": "2025-02-25T05:10:03-04:00"
   },
   {
     "idnoticia": 16,
-    "titulonoticia": "Cientistas testam vacina contra dengue",
-    "conteudonoticia": "Cientistas testam vacina contra dengue. Esta notícia apresenta um desenvolvimento recente e relevante na área de pesquisa, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "pesquisa",
-    "datahoracadastro": "2025-05-26T12:17:34.750845"
+    "titulonoticia": "Tendências de Game Dev Reveladas na GDC",
+    "conteudonoticia": "Durante a GDC 2025, desenvolvedores compartilharam técnicas avançadas de inteligência artificial, otimização de engines e estratégias de monetização que apontam o futuro da produção de jogos. Durante a GDC 2025, desenvolvedores compartilharam técnicas avançadas de inteligência artificial, otimização de engines e estratégias de monetização que apontam o futuro da produção de jogos. Durante a GDC 20",
+    "tiponoticia": "Game Dev",
+    "datahoracadastro": "2025-01-09T05:56:01-04:00"
   },
   {
     "idnoticia": 17,
-    "titulonoticia": "Corrida de rua bate recorde de inscritos",
-    "conteudonoticia": "Corrida de rua bate recorde de inscritos. Esta notícia apresenta um desenvolvimento recente e relevante na área de educação, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "educação",
-    "datahoracadastro": "2025-05-17T22:17:34.750854"
+    "titulonoticia": "Review em Profundidade de Galaxy Frontier",
+    "conteudonoticia": "Nossa redação avaliou o recém‑lançado 'Galaxy Frontier', destacando seus visuais impressionantes, trilha sonora envolvente e algumas falhas de balanceamento que podem ser corrigidas em atualizações futuras. Nossa redação avaliou o recém‑lançado 'Galaxy Frontier', destacando seus visuais impressionantes, trilha sonora envolvente e algumas falhas de balanceamento que podem ser corrigidas em atualiza",
+    "tiponoticia": "Review",
+    "datahoracadastro": "2025-06-17T05:49:59-04:00"
   },
   {
     "idnoticia": 18,
-    "titulonoticia": "Estudantes criam app educativo",
-    "conteudonoticia": "Estudantes criam app educativo. Esta notícia apresenta um desenvolvimento recente e relevante na área de esportes, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "esportes",
-    "datahoracadastro": "2025-05-21T18:17:34.750862"
+    "titulonoticia": "Coleções Retrô Revivem Clássicos 16‑bit",
+    "conteudonoticia": "Fãs de nostalgia podem comemorar a chegada de coleções remasterizadas que preservam o charme 16‑bit, oferecem modo online e suporte a conquistas, mantendo viva a herança dos clássicos. Fãs de nostalgia podem comemorar a chegada de coleções remasterizadas que preservam o charme 16‑bit, oferecem modo online e suporte a conquistas, mantendo viva a herança dos clássicos. Fãs de nostalgia podem comemor",
+    "tiponoticia": "Jogos Retrô",
+    "datahoracadastro": "2025-07-05T05:14:53-04:00"
   },
   {
     "idnoticia": 19,
-    "titulonoticia": "Museu reabre com exposição interativa",
-    "conteudonoticia": "Museu reabre com exposição interativa. Esta notícia apresenta um desenvolvimento recente e relevante na área de cultura, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "cultura",
-    "datahoracadastro": "2025-05-26T22:17:34.750876"
+    "titulonoticia": "Review em Profundidade de Galaxy Frontier",
+    "conteudonoticia": "Nossa redação avaliou o recém‑lançado 'Galaxy Frontier', destacando seus visuais impressionantes, trilha sonora envolvente e algumas falhas de balanceamento que podem ser corrigidas em atualizações futuras. Nossa redação avaliou o recém‑lançado 'Galaxy Frontier', destacando seus visuais impressionantes, trilha sonora envolvente e algumas falhas de balanceamento que podem ser corrigidas em atualiza",
+    "tiponoticia": "Review",
+    "datahoracadastro": "2025-07-02T06:07:29-04:00"
   },
   {
     "idnoticia": 20,
-    "titulonoticia": "Estudo revela impacto das mudanças climáticas",
-    "conteudonoticia": "Estudo revela impacto das mudanças climáticas. Esta notícia apresenta um desenvolvimento recente e relevante na área de cultura, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "cultura",
-    "datahoracadastro": "2025-05-20T15:17:34.750882"
+    "titulonoticia": "Grandes Lançamentos Agitam a Semana Gamer",
+    "conteudonoticia": "Nesta semana, a indústria recebeu uma enxurrada de lançamentos aguardados, incluindo títulos AAA e indies inovadores que prometem redefinir padrões de jogabilidade e narrativa. Nesta semana, a indústria recebeu uma enxurrada de lançamentos aguardados, incluindo títulos AAA e indies inovadores que prometem redefinir padrões de jogabilidade e narrativa. Nesta semana, a indústria recebeu uma enxurrad",
+    "tiponoticia": "Lançamentos",
+    "datahoracadastro": "2025-04-29T11:42:40-04:00"
   },
   {
     "idnoticia": 21,
-    "titulonoticia": "Festival de música será híbrido",
-    "conteudonoticia": "Festival de música será híbrido. Esta notícia apresenta um desenvolvimento recente e relevante na área de cultura, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "cultura",
-    "datahoracadastro": "2025-05-26T11:17:34.750887"
+    "titulonoticia": "Review em Profundidade de Galaxy Frontier",
+    "conteudonoticia": "Nossa redação avaliou o recém‑lançado 'Galaxy Frontier', destacando seus visuais impressionantes, trilha sonora envolvente e algumas falhas de balanceamento que podem ser corrigidas em atualizações futuras. Nossa redação avaliou o recém‑lançado 'Galaxy Frontier', destacando seus visuais impressionantes, trilha sonora envolvente e algumas falhas de balanceamento que podem ser corrigidas em atualiza",
+    "tiponoticia": "Review",
+    "datahoracadastro": "2025-07-07T13:31:30-04:00"
   },
   {
     "idnoticia": 22,
-    "titulonoticia": "Laboratório desenvolve teste rápido",
-    "conteudonoticia": "Laboratório desenvolve teste rápido. Esta notícia apresenta um desenvolvimento recente e relevante na área de cultura, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "cultura",
-    "datahoracadastro": "2025-05-23T09:17:34.750892"
+    "titulonoticia": "Tendências de Game Dev Reveladas na GDC",
+    "conteudonoticia": "Durante a GDC 2025, desenvolvedores compartilharam técnicas avançadas de inteligência artificial, otimização de engines e estratégias de monetização que apontam o futuro da produção de jogos. Durante a GDC 2025, desenvolvedores compartilharam técnicas avançadas de inteligência artificial, otimização de engines e estratégias de monetização que apontam o futuro da produção de jogos. Durante a GDC 20",
+    "tiponoticia": "Game Dev",
+    "datahoracadastro": "2025-05-03T10:27:56-04:00"
   },
   {
     "idnoticia": 23,
-    "titulonoticia": "Escola rural recebe equipamentos novos",
-    "conteudonoticia": "Escola rural recebe equipamentos novos. Esta notícia apresenta um desenvolvimento recente e relevante na área de esportes, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "esportes",
-    "datahoracadastro": "2025-05-23T21:17:34.750897"
+    "titulonoticia": "Grandes Lançamentos Agitam a Semana Gamer",
+    "conteudonoticia": "Nesta semana, a indústria recebeu uma enxurrada de lançamentos aguardados, incluindo títulos AAA e indies inovadores que prometem redefinir padrões de jogabilidade e narrativa. Nesta semana, a indústria recebeu uma enxurrada de lançamentos aguardados, incluindo títulos AAA e indies inovadores que prometem redefinir padrões de jogabilidade e narrativa. Nesta semana, a indústria recebeu uma enxurrad",
+    "tiponoticia": "Lançamentos",
+    "datahoracadastro": "2025-06-04T15:50:54-04:00"
   },
   {
     "idnoticia": 24,
-    "titulonoticia": "Centro cultural promove oficinas gratuitas",
-    "conteudonoticia": "Centro cultural promove oficinas gratuitas. Esta notícia apresenta um desenvolvimento recente e relevante na área de pesquisa, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "pesquisa",
-    "datahoracadastro": "2025-05-22T21:17:34.750903"
+    "titulonoticia": "Coleções Retrô Revivem Clássicos 16‑bit",
+    "conteudonoticia": "Fãs de nostalgia podem comemorar a chegada de coleções remasterizadas que preservam o charme 16‑bit, oferecem modo online e suporte a conquistas, mantendo viva a herança dos clássicos. Fãs de nostalgia podem comemorar a chegada de coleções remasterizadas que preservam o charme 16‑bit, oferecem modo online e suporte a conquistas, mantendo viva a herança dos clássicos. Fãs de nostalgia podem comemor",
+    "tiponoticia": "Jogos Retrô",
+    "datahoracadastro": "2025-06-18T16:46:38-04:00"
   },
   {
     "idnoticia": 25,
-    "titulonoticia": "Cientistas estudam genética de peixes amazônicos",
-    "conteudonoticia": "Cientistas estudam genética de peixes amazônicos. Esta notícia apresenta um desenvolvimento recente e relevante na área de esportes, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "esportes",
-    "datahoracadastro": "2025-05-17T22:17:34.750908"
+    "titulonoticia": "Coleções Retrô Revivem Clássicos 16‑bit",
+    "conteudonoticia": "Fãs de nostalgia podem comemorar a chegada de coleções remasterizadas que preservam o charme 16‑bit, oferecem modo online e suporte a conquistas, mantendo viva a herança dos clássicos. Fãs de nostalgia podem comemorar a chegada de coleções remasterizadas que preservam o charme 16‑bit, oferecem modo online e suporte a conquistas, mantendo viva a herança dos clássicos. Fãs de nostalgia podem comemor",
+    "tiponoticia": "Jogos Retrô",
+    "datahoracadastro": "2025-07-08T19:07:13-04:00"
   },
   {
     "idnoticia": 26,
-    "titulonoticia": "Brasil sobe em ranking de educação",
-    "conteudonoticia": "Brasil sobe em ranking de educação. Esta notícia apresenta um desenvolvimento recente e relevante na área de cultura, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "cultura",
-    "datahoracadastro": "2025-05-18T08:17:34.750915"
+    "titulonoticia": "Coleções Retrô Revivem Clássicos 16‑bit",
+    "conteudonoticia": "Fãs de nostalgia podem comemorar a chegada de coleções remasterizadas que preservam o charme 16‑bit, oferecem modo online e suporte a conquistas, mantendo viva a herança dos clássicos. Fãs de nostalgia podem comemorar a chegada de coleções remasterizadas que preservam o charme 16‑bit, oferecem modo online e suporte a conquistas, mantendo viva a herança dos clássicos. Fãs de nostalgia podem comemor",
+    "tiponoticia": "Jogos Retrô",
+    "datahoracadastro": "2025-06-12T21:59:18-04:00"
   },
   {
     "idnoticia": 27,
-    "titulonoticia": "Pesquisadores analisam solo lunar",
-    "conteudonoticia": "Pesquisadores analisam solo lunar. Esta notícia apresenta um desenvolvimento recente e relevante na área de entretenimento, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "entretenimento",
-    "datahoracadastro": "2025-05-23T19:17:34.750924"
+    "titulonoticia": "Review em Profundidade de Galaxy Frontier",
+    "conteudonoticia": "Nossa redação avaliou o recém‑lançado 'Galaxy Frontier', destacando seus visuais impressionantes, trilha sonora envolvente e algumas falhas de balanceamento que podem ser corrigidas em atualizações futuras. Nossa redação avaliou o recém‑lançado 'Galaxy Frontier', destacando seus visuais impressionantes, trilha sonora envolvente e algumas falhas de balanceamento que podem ser corrigidas em atualiza",
+    "tiponoticia": "Review",
+    "datahoracadastro": "2025-01-13T08:46:56-04:00"
   },
   {
     "idnoticia": 28,
-    "titulonoticia": "Exposição de arte urbana é destaque",
-    "conteudonoticia": "Exposição de arte urbana é destaque. Esta notícia apresenta um desenvolvimento recente e relevante na área de entretenimento, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "entretenimento",
-    "datahoracadastro": "2025-05-16T22:17:34.750934"
+    "titulonoticia": "Tendências de Game Dev Reveladas na GDC",
+    "conteudonoticia": "Durante a GDC 2025, desenvolvedores compartilharam técnicas avançadas de inteligência artificial, otimização de engines e estratégias de monetização que apontam o futuro da produção de jogos. Durante a GDC 2025, desenvolvedores compartilharam técnicas avançadas de inteligência artificial, otimização de engines e estratégias de monetização que apontam o futuro da produção de jogos. Durante a GDC 20",
+    "tiponoticia": "Game Dev",
+    "datahoracadastro": "2025-02-02T01:58:43-04:00"
   },
   {
     "idnoticia": 29,
-    "titulonoticia": "Universidade participa de expedição polar",
-    "conteudonoticia": "Universidade participa de expedição polar. Esta notícia apresenta um desenvolvimento recente e relevante na área de entretenimento, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "entretenimento",
-    "datahoracadastro": "2025-05-26T11:17:34.750947"
+    "titulonoticia": "Confira nosso Top 5 de jogos de Corrida",
+    "conteudonoticia": "Preparamos uma lista definitiva com os cinco melhores jogos de Corrida lançados nos últimos anos, considerando inovação, design de níveis, engajamento da comunidade e notas da crítica especializada. Preparamos uma lista definitiva com os cinco melhores jogos de Corrida lançados nos últimos anos, considerando inovação, design de níveis, engajamento da comunidade e notas da crítica especializada. Pr",
+    "tiponoticia": "Top 5 Jogos de Corrida",
+    "datahoracadastro": "2025-03-08T01:41:51-04:00"
   },
   {
     "idnoticia": 30,
-    "titulonoticia": "Cinema nacional bate recorde de bilheteria",
-    "conteudonoticia": "Cinema nacional bate recorde de bilheteria. Esta notícia apresenta um desenvolvimento recente e relevante na área de cultura, abordando impactos sociais, científicos ou culturais. O conteúdo destaca a importância do tema, com foco na inovação, inclusão ou descoberta. A sociedade acompanha com interesse os desdobramentos.",
-    "tiponoticia": "cultura",
-    "datahoracadastro": "2025-05-22T08:17:34.750955"
-  },
-    {
-    "idnoticia": 31,
-    "titulonoticia": "Teste de API Com Car",
-    "conteudonoticia": "teste",
-    "tiponoticia": "cultura",
-    "datahoracadastro": "2025-05-22T08:17:34.750955"
+    "titulonoticia": "Review em Profundidade de Galaxy Frontier",
+    "conteudonoticia": "Nossa redação avaliou o recém‑lançado 'Galaxy Frontier', destacando seus visuais impressionantes, trilha sonora envolvente e algumas falhas de balanceamento que podem ser corrigidas em atualizações futuras. Nossa redação avaliou o recém‑lançado 'Galaxy Frontier', destacando seus visuais impressionantes, trilha sonora envolvente e algumas falhas de balanceamento que podem ser corrigidas em atualiza",
+    "tiponoticia": "Review",
+    "datahoracadastro": "2025-05-11T20:17:10-04:00"
   }
 ]
