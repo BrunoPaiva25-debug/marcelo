@@ -8,7 +8,7 @@ export default function Menu() {
   return (
     <Navbar expand="lg" bg="dark" data-bs-theme="dark" className={`${styles.degradeMenu}`}>
       <Container>
-        <Navbar.Brand href="/">Info 5C</Navbar.Brand>
+        <Navbar.Brand href="/">ROGGENROLA GAMES</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
